@@ -18,6 +18,7 @@ Antônio Fernando é responsável pelo o desenvolvimento de novas soluções al�
 <br /> <br />
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antoniofernandodearujo)
 [![Gmail](https://img.shields.io/badge/Gmail-darkred?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afas@academico.ufpb.br)
+[![Linkedin](https://img.shields.io/badge/Linkedin-darkblue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-fernando-8a2385235/)
 
 ## 💻 Tecnologias Utilizadas
 
