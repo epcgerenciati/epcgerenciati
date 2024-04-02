@@ -11,14 +11,19 @@ A Empresa Paraibana de Comunicação (EPC) é uma empresa de mídia e comunicaç
 ## 🧑‍💻👨‍💻👩‍💻 Equipe de Desenvolvimento
 Cada membro da equipe desempenha um papel fundamental no sucesso da EPC. Aqui estão alguns dos membros-chave da nossa equipe:
 
-### Francisco Marques - Gerente
+### Francisco Marques - Gerente de TI
 Francisco Marques responsável por toda equipe, além de supervisionar e liderar.
 ### Antônio Fernando - Desenvolvedor Full Stack
-Antônio Fernando é responsável pelo o desenvolvimento de novas soluções além da manuntenção.
-<br /> <br />
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antoniofernandodearujo)
 [![Gmail](https://img.shields.io/badge/Gmail-darkred?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afas@academico.ufpb.br)
 [![Linkedin](https://img.shields.io/badge/Linkedin-darkblue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-fernando-8a2385235/)
+### Lucas Fernandes - Analista de TI
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anchard)
+[![Gmail](https://img.shields.io/badge/Gmail-darkred?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasfernandes0015@gmail.com)
+### Everton Batista - Analista de TI
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/evertonidpbjp)
+[![Gmail](https://img.shields.io/badge/Gmail-darkred?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evertonidpbjp@outlook.com)
+
 
 ## 💻 Tecnologias Utilizadas
 
@@ -28,6 +33,7 @@ Na EPC, utilizamos as tecnologias mais recentes e eficazes para atender às dema
 - #### React e NextJs: Framework que impulsiona nossas interfaces de usuário interativas.
 - #### NodeJS: Usado para desenvolver nossos aplicativos e serviços backend.
 - #### Firebase e PostgreSQL: Bancos de Dados utilizados no desenvolvimento das nossas aplicações.
+- #### React Native: Desenvolvimento mobile da empresa
 
 ## Contribua Conosco
 
@@ -35,4 +41,4 @@ Agradecemos por visitar nosso repositório no GitHub. Se você compartilha de no
 
 Juntos, podemos continuar a criar soluções de comunicação que impactam positivamente nossa comunidade e além. Obrigado por fazer parte da jornada da Empresa Paraibana de Comunicação!
 
-Para saber mais sobre a EPC, visite nosso site oficial: https://epc.pb.gov.br/ .
+Para saber mais sobre a EPC, visite nosso site oficial: https://epc.pb.gov.br/ 
